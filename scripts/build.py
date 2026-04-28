@@ -26,6 +26,18 @@ TRIPS = {
         "color": "#C8102E",
         "emoji": "🌹",
     },
+    "mariners": {
+        "label": "Mariners",
+        "subtitle": "Seattle Mariners Visit",
+        "color": "#0C2C56",
+        "emoji": "⚾",
+    },
+    "lumens": {
+        "label": "Lumens",
+        "subtitle": "Lumens Visit",
+        "color": "#F5A623",
+        "emoji": "💡",
+    },
     "seattle": {
         "label": "Seattle",
         "subtitle": "Seattle Trip",
